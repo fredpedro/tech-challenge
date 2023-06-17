@@ -1,0 +1,14 @@
+{
+  "name": "amaysim-tech-challenge",
+  "version": "1.0.0",
+  "description": "**To run test**",
+  "main": "cart.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
